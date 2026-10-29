@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/FaroukRajhi/blockchain-js/issues"
   },
-  "homepage": "https://github.com/FaroukRajhi/blockchain-js#readme"
+  "homepage": "https://github.com/FaroukRajhi/blockchain-js#readme",
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  }
 }
